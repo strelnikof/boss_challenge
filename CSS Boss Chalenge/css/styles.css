@@ -1,0 +1,143 @@
+.top_contaner {
+  background-color: #EAF6F6;
+  color: #66BFBF;
+  text-align: center;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+.top_h1 {
+  font-family:'Special Elite',cursive;
+  font-size: 300%;
+}
+
+.top_h2 {
+  font-family: 'Kalam', cursive;
+  font-size: 200%;
+}
+.img_cloud1 {
+  padding-right: 60%;
+  width: 10%;
+  height: auto;
+}
+
+.img_cloud2 {
+  padding-left: 60%;
+  max-width: 30%;
+  max-height: auto;
+}
+
+.img_mountain {
+  max-width: 30%;
+  max-height: 30%;
+  height: auto;
+}
+
+.span_css {
+  text-decoration: underline;
+}
+
+.middle_container {
+  padding-top: 20pt;
+  color: #66BFBF;
+  margin-top: 20px;
+}
+
+.img_hat {
+max-width: 15%;
+height: auto;
+border-radius: 50%;
+display: block;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+.middle_h2 {
+font-family: 'Gayathri', sans-serif;
+text-align: center;
+font-size: 300%;
+}
+
+.paragraph1 {
+  padding-left: 25%;
+  padding-right: 25%;
+  color: #40514e;
+  /*text-align: center;*/
+  text-align: justify;
+  font-size: 130%;
+}
+.hr1 {
+  display: block;
+  margin-left: 45%;
+  margin-right: 45%;
+  border: 10px dotted;
+  border-bottom-width: 0px;
+  border-radius: 5px;
+  color: #EAF6F6;
+}
+
+.skills {
+  display: block;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.paragraphScript {
+  padding-left: 2%;
+  padding-right: 2%;
+  /*padding-right: 25%;*/
+  color: #40514e;
+  /*text-align: center;*/
+  text-align: left;
+  font-size: 130%;
+}
+
+.paragraphSQL {
+  padding-left: 2%;
+  padding-right: 2%;
+  /*padding-right: 25%;*/
+  color: #40514e;
+  /*text-align: center;*/
+  text-align: right;
+  font-size: 130%;
+}
+
+.img_coding {
+width: 96px;
+height: auto;
+}
+
+.img_sql {
+  width: 96px;
+  height: auto;
+}
+
+.button {
+  background-color: #66BFBF;
+  color: white;
+  text-align:center;
+  font-family: 'Lobster', cursive;
+  text-shadow: 1px 1px 1px #38352c;
+  font-size: 20px;
+  margin: 4px 2px;
+  padding: 15px 32px;
+  border-radius: 15px;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.bottom_button {
+  display:flex;
+  justify-content: center;
+}
+
+.bottom_container {
+  display: block;
+  height: 100px;
+  background-color: #66BFBF;
+}
+.copyright {
+  padding-top: 50px;
+  text-align: center;
+  color: white;
+}
